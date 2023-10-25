@@ -1,0 +1,3 @@
+- [[GNTS_fall_2022_presentation_notes]]
+- [[GNTS_spring_2023_presentation_notes]]
+- [[talk_preparation_for_western_university_2023_10_20]]
